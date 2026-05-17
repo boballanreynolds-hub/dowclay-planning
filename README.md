@@ -1,2 +1,2 @@
 # dowclay-planning
-Daily Auto production recording and lanning
+Daily Auto production recording and planning
